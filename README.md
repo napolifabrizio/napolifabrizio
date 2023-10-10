@@ -17,6 +17,13 @@
 
 Apaixonado em como essas tecnologias resolvem problemas reais e facilitam nosso dia a dia - após frustações e telas quebradas 😁
 
+### Áreas dos meus projetos
+  -Backend
+  -Ciência de Dados
+  -Frontend
+
+*O foco é em backend e ciência de dados*
+
 ### Tecnologias mais usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=napolifabrizio&layout=compact)
