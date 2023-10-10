@@ -19,9 +19,9 @@ Apaixonado em como essas tecnologias resolvem problemas reais e facilitam nosso 
 
 ### Áreas dos meus projetos
   -Backend
-  
+  <br>
   -Ciência de Dados
-  
+  <br>
   -Frontend
 
 *O foco é em backend e ciência de dados*
