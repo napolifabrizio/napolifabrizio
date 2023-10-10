@@ -1,6 +1,8 @@
-### Eaee!! Eu sou o Fabrizio Napoli ✋
+## Eaeee, tudo bem? Eu sou o Fabrizio Napoli ✋
+<b>Quem é Fabrizio Napoli?</b> Fabrizio Napoli é uma pessoa INTERESSADÍSSIMA em como a tecnologia consegue resolver e facilitar nossas vidas, desde o entretenimento com as plataformas de streamings, até a análise de dados com Excel ou Python ou Power BI. E foi por isso que decidi a área de tecnologia, quero ter que passar por frustações até chegar no resultado desejado através das maravilhosas techs que temos. Sou movido por desafios e aprendizados, por isso esses projetos, cada projeto é um desafio onde aprendo bastante em cada commit :) Tenho interesse em backend, onde quero mergulhar no desenvolvimento backend mas tenho bastante interesse em ciência/análise de dados e serviços cloud, jaja vão aparecer projetinhos. Espero que tenham gostado, valeuuu Dev 🌛
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabrizio-napoli7/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](fabrizionapoli50@gmail.com)
 
 ![Fabrizio GitHub stats](https://github-readme-stats.vercel.app/api?username=napolifabrizio&show_icons=true&theme=dracula)
 
