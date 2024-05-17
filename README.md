@@ -22,9 +22,6 @@ Apaixonado em como essas tecnologias resolvem problemas reais e facilitam nosso 
   <br>
   -Ciência de Dados
   <br>
-  -Frontend
-
-*O foco é em backend e ciência de dados*
 
 ### Tecnologias mais usadas
 
